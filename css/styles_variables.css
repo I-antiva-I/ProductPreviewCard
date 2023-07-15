@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500;700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fraunces:700&display=swap');
+
+:root
+{
+    --color-primary-dcyan:      hsl(158, 36%, 37%);
+    --color-primary-cream:      hsl(30, 38%, 92%);
+    
+    --color-neutral-vdblue:     hsl(212, 21%, 14%);
+    --color-neutral-dgblue:     hsl(228, 12%, 48%);
+    --color-neutral-white:      hsl(0, 0%, 100%);
+
+    --font-fraunces:            "Fraunces";
+    --font-montserrat:          "Montserrat";
+
+}
