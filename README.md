@@ -1,7 +1,7 @@
 # Frontend Mentor - Product Preview Card Component
 <p>
 This is a solution
-to <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank">Product preview card component challenge</a> 
+to <a href="https://www.frontendmentor.io/solutions/product-preview-card-6pWgMTuUVM" target="_blank">Product preview card component challenge</a> 
 on <a href="https://www.frontendmentor.io" target="_blank">Frontend Mentor</a> 
 </p>
 
