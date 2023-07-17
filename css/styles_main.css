@@ -78,7 +78,7 @@ main
 
 .container.for-desc
 {
-    padding-block:      1.625rem;
+    padding-block:      1.375rem;
     padding-inline:     1.375rem;
 
     display: flex;
@@ -95,6 +95,8 @@ h1
     line-height: 1.75rem;
     font-weight: 700;
     font-size: 1.875rem;
+
+    margin-right: auto;
 }
 h2
 {
@@ -108,7 +110,7 @@ p
 {
     color: var(--color-neutral-dgblue);
     font-size: var(--paragraph-font-size);
-    margin-top: 1.5rem;
+    margin-top: 1rem;
     line-height: 1.375em;
 }
 
@@ -189,6 +191,10 @@ button:active
         max-width: calc(var(--product-card-width-desktop) * 0.5);
     }
 
+    h1
+    {
+        width: 90%;
+    }
 
     .product-card
     {
